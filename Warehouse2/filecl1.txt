@@ -1,0 +1,5 @@
+User with username : cl ordered the following products : 
+Quick & Spicy Asian Pickles     - 48$
+Smoked Caviar and Hummus on Pita Toasts     - 79$
+Red and Green Tomato Salsa     - 38$
+The total price of the order is : 165$

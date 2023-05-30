@@ -1,0 +1,5 @@
+User with username : client ordered the following products : 
+Quick & Spicy Asian Pickles     - 48$
+Barbecued Shrimp     - 71$
+Red and Green Tomato Salsa     - 38$
+The total price of the order is : 157$
